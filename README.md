@@ -29,7 +29,7 @@ turtle.done()
 
 ## Documentation
 
-The Solidity documentation is hosted at [Read the docs](https://www.geeksforgeeks.org/turtle-programming-python/).
+The Turtle documentation is hosted at [Read the docs](https://www.geeksforgeeks.org/turtle-programming-python/).
 
 
 
